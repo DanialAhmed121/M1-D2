@@ -1,0 +1,29 @@
+// Algorithm is a limited amount of steps for solving a particular problem
+
+// Data Types
+
+// Numbers
+// 5
+// 5.5
+// 10.4563534345
+
+// Strings
+// "Hello World"
+// 'Hello World'
+
+// Boolean
+// True
+// False
+// 3 > 2
+// 2 > 3
+
+// Special Ones
+// undefined --> absence of value
+// null --> not existing
+
+// Variables
+// They are containers for values
+
+// let = Used for creating Variables
+
+console.log('Hello World')
